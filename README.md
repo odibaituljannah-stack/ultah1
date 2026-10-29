@@ -277,7 +277,7 @@
     <!-- HALAMAN 1 -->
     <section class="page active" id="page1">
         <div class="card">
-            <img src="nailong1.png" class="nailong" alt="Nailong">
+            <img src="foto1.jpeg" class="nailong" alt="Nailong">
             <h1>Hai, sayanggg....</h1>
             <p>Aku punya sesuatu yang udah aku siapin khusus buat kamu.</p>
             <p>Tapi kayaknya kamu harus klik beberapa tombol dulu deh wkwk.</p>
@@ -333,7 +333,7 @@
     <!-- HALAMAN 6 -->
     <section class="page" id="page6">
         <div class="card">
-            <img src="nailong2.png" class="nailong" alt="Nailong">
+            <img src="foto5.jpeg" class="nailong" alt="Nailong">
             <h2>Makasih banget, udah hadir</h2>
             <p>Makasih banget karna udah jadi bagian dari hidup aku.</p>
             <p>Makasih banget untuk semua cerita, tawa, perhatian, kesabaran (meskipun dikit hehe), dan waktu yang udah kita lewati.</p>
@@ -345,7 +345,7 @@
     <!-- HALAMAN 7 -->
     <section class="page" id="page7">
         <div class="card">
-            <img src="nailong1.png" class="nailong" alt="Nailong">
+            <img src="foto3.jpeg" class="nailong" alt="Nailong">
             <h1>Untuk kamu.</h1>
             <p class="final-text">Semoga di usia yang baru, semua hal baik datang satu per satu kepada kamu.</p>
             <p class="final-text">Semoga kamu selalu sehat, bahagia, dimudahkan dalam segala urusan, dan bisa mencapai semua hal yang kamu impikan.</p>
