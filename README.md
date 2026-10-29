@@ -288,7 +288,7 @@
     <!-- HALAMAN 2 -->
     <section class="page" id="page2">
         <div class="card">
-            <img src="nailong2.png" class="nailong" alt="Nailong">
+            <img src="foto2.jpeg" class="nailong" alt="Nailong">
             <h2>Aku buat sesuatu buat kamu</h2>
             <p>Gak mahal sih, bukan sesuatu yang mewah juga.</p>
             <p>Malah rada alay mungkin, tapi aku buatnya dengan banyak waktu dan rada malu juga sih 😅</p>
@@ -322,7 +322,7 @@
     <!-- HALAMAN 5 -->
     <section class="page" id="page5">
         <div class="card">
-            <img src="nailong5.png" class="nailong" alt="Nailong">
+            <img src="foto4.jpeg" class="nailong" alt="Nailong">
             <h1>SELAMAT<br>ULANG TAHUN!</h1>
             <h2>Putri Aulia Fauziah 🥳🎂</h2>
             <p id="typingText" class="typing"></p>
