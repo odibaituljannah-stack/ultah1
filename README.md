@@ -695,19 +695,17 @@
 <!-- Background Nailong -->
 <div class="nailong-background"></div>
 .nailong-background {
-    position: fixed;
-    inset: 0;
+   position: fixed;
+    inset: -20px;
     z-index: 0;
     pointer-events: none;
-    overflow: hidden;
-
-    opacity: 0.08;
 
     background-image: url("kita.jpeg");
     background-repeat: repeat;
     background-size: 140px 140px;
     background-position: center;
-    transform: rotate(-5deg) scale(1.1);
+
+    opacity: 0.10;
 }
 
 <!-- =========================================
@@ -727,18 +725,6 @@
      nailong5.png
 ========================================= -->
 
-<img
-    src="nailong4.png"
-    class="nailong-side nailong-left"
-    alt="Nailong"
->
-
-
-<img
-    src="nailong5.png"
-    class="nailong-side nailong-right"
-    alt="Nailong"
->
 
 
 <!-- =========================================
