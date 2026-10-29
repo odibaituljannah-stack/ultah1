@@ -299,7 +299,7 @@
     <!-- HALAMAN 3 -->
     <section class="page" id="page3">
         <div class="card">
-            <img src="foto-kita.jpeg" class="photo" alt="Foto kita">
+            <img src="foto-kita.jpeg" class="photo" alt="foto-kita">
             <img src="nailong3.png" class="nailong" alt="Nailong">
             <h2>Ini kita.</h2>
             <p>Dari sekian banyak orang yang ada di dunia, aku bersyukur bisa ketemu kamu.</p>
