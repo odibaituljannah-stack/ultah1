@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Selamat Ulang Tahun Aulia 
 <html lang="id">
 
 <head>
@@ -695,17 +695,19 @@
 <!-- Background Nailong -->
 <div class="nailong-background"></div>
 .nailong-background {
-   position: fixed;
-    inset: -20px;
+    position: fixed;
+    inset: 0;
     z-index: 0;
     pointer-events: none;
+    overflow: hidden;
+
+    opacity: 0.08;
 
     background-image: url("kita.jpeg");
     background-repeat: repeat;
     background-size: 140px 140px;
     background-position: center;
-
-    opacity: 0.10;
+    transform: rotate(-5deg) scale(1.1);
 }
 
 <!-- =========================================
