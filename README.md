@@ -696,18 +696,16 @@ Selamat Ulang Tahun Aulia
 <div class="nailong-background"></div>
 .nailong-background {
     position: fixed;
-    inset: 0;
+    inset: -20px;
     z-index: 0;
     pointer-events: none;
-    overflow: hidden;
-
-    opacity: 0.08;
 
     background-image: url("kita.jpeg");
     background-repeat: repeat;
     background-size: 140px 140px;
     background-position: center;
-    transform: rotate(-5deg) scale(1.1);
+
+    opacity: 0.10;
 }
 
 <!-- =========================================
